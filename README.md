@@ -15,9 +15,16 @@ Searched Page:
 ![Second Page](https://github.com/RodolfovMoreira/react-githubapi/blob/master/secondpage.png)
 
 
+
+
 # How to Run
 
 Just clone this repository and run:
 `npm start`
+
+Or, just run:
+`docker compose up -d`
+and go to [localhost:3000](http://localhost:3000)
+
 
 

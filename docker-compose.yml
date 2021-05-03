@@ -1,0 +1,7 @@
+version: "3.7"
+services: 
+  react-github-app:
+    image: rdlmoreira/react-githubapi-app
+    container_name: rodolfo-githubapi-app
+    ports: 
+      - "3000:3000"
