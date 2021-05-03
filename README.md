@@ -9,8 +9,10 @@ You can test it on [rodolfomoreira.dev](https://rodolfomoreira.dev/whoisgithub)
 
 ## Images
 Front Page:
+![First Page](https://github.com/RodolfovMoreira/react-githubapi/blob/master/firstpage.png)
 
 Searched Page:
+![Second Page](https://github.com/RodolfovMoreira/react-githubapi/blob/master/secondpage.png)
 
 
 # How to Run
