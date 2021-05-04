@@ -3,5 +3,6 @@ services:
   react-github-app:
     image: rdlmoreira/react-githubapi-app
     container_name: rodolfo-githubapi-app
+    restart: always
     ports: 
       - "3000:3000"
